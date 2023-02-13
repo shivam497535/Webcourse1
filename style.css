@@ -64,7 +64,7 @@ h1{
 }
 .instagram{
     position: absolute;
-    left: 400px;
+    left: 30%;
 }
 .linkedinpng{
     width: 32px;
@@ -73,7 +73,7 @@ h1{
 }
 .linkedin{
     position: absolute;
-    right: 400px;
+    right: 30%;
 }
 .websitepng{
     width: 32px;
@@ -87,5 +87,6 @@ h1{
 .text{
     width: 100%;
     position: relative;
-    top: 70%;;
+    top: 80%;
+    font-size: small;
 }
